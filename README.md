@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Home Screen](lib/img.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
